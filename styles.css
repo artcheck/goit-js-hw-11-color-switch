@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+.btns {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.btn {
+  width: 100px;
+  height: 50px;
+  border-radius: 50px;
+  margin: 20px;
+}
